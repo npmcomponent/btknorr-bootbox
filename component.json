@@ -1,0 +1,16 @@
+{
+    "name":"bootbox",
+    "version":"2.4.2",
+    "description":"Component version.  Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework",
+    "homepage":"http://bootboxjs.com",
+    "keywords":[
+        "twitter", "bootstrap", "modal", "alert"
+    ],
+    "dependencies":{
+        "component/jquery":"*",
+        "btknorr/component-bootstrap":"*"
+    },
+    "scripts":[
+        "index.js"
+    ]
+}

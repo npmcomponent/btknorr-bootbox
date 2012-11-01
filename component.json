@@ -8,7 +8,7 @@
     ],
     "dependencies":{
         "component/jquery":"*",
-        "btknorr/component-bootstrap":"*"
+        "btknorr/bootstrap":"*"
     },
     "scripts":[
         "index.js"

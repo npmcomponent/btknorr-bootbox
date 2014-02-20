@@ -515,6 +515,6 @@ var bootbox = window.bootbox || (function($) {
     }
 
     return that;
-})( require('jquery') );
+})( require('component-jquery') );
 
 module.exports = bootbox;
